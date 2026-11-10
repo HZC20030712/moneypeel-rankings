@@ -74,7 +74,10 @@ check(
 );
 
 // 6. The licence and the coverage date are stated.
-check('licence stated', /CC BY 4\.0/.test(en) && /CC BY 4\.0/.test(read('LICENSE')));
+check(
+  'licence stated',
+  /CC BY 4\.0/.test(en) && /Creative Commons Attribution 4\.0/.test(read('LICENSE'))
+);
 check('coverage date stated', /data as of \d{4}-\d{2}-\d{2}/i.test(en));
 
 // 7. No point values may leak: bands only, in every locale.
