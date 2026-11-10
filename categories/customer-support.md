@@ -1,0 +1,10 @@
+# Customer Support
+
+4 products. Part of [How small software businesses make money](../README.md) · [中文](../README.zh.md).
+
+| # | Product | MRR band | Trend | Pricing | How does it grow? |
+| --: | --- | :-: | :-: | --- | --- |
+| 1 | [uhoh.com](https://moneypeel.com/project/uhoh-com?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=uhoh-com) | $10K–100K | ▲ | Subscription | [How does a Customer Support subscription keep churn low enough to compound?](https://moneypeel.com/project/uhoh-com?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=uhoh-com) |
+| 2 | [Evergreen Support, LLC](https://moneypeel.com/project/evergreen-support-llc?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=evergreen-support-llc) | $10K–100K | ▼ | Subscription | [How does a Customer Support subscription keep churn low enough to compound?](https://moneypeel.com/project/evergreen-support-llc?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=evergreen-support-llc) |
+| 3 | [Ticketdesk AI](https://moneypeel.com/project/ticketdesk-ai?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=ticketdesk-ai) | $1K–10K | ▼ | Subscription | [How does a Customer Support subscription keep churn low enough to compound?](https://moneypeel.com/project/ticketdesk-ai?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=ticketdesk-ai) |
+| 4 | [Reception](https://moneypeel.com/project/reception?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=reception) | $1K–10K | → | Subscription | [How does a Customer Support subscription keep churn low enough to compound?](https://moneypeel.com/project/reception?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=reception) |

@@ -1,0 +1,11 @@
+# Security
+
+5 products. Part of [How small software businesses make money](../README.md) · [中文](../README.zh.md).
+
+| # | Product | MRR band | Trend | Pricing | How does it grow? |
+| --: | --- | :-: | :-: | --- | --- |
+| 1 | [goundetected LLC](https://moneypeel.com/project/goundetected-llc?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=goundetected-llc) | $1K–10K | ▲ | Subscription | [How does a Security subscription keep churn low enough to compound?](https://moneypeel.com/project/goundetected-llc?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=goundetected-llc) |
+| 2 | [isMalicious](https://moneypeel.com/project/ismalicious?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=ismalicious) | $1K–10K | ▼ | Subscription | [How does a Security subscription keep churn low enough to compound?](https://moneypeel.com/project/ismalicious?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=ismalicious) |
+| 3 | [securenow.ai](https://moneypeel.com/project/securenow-ai?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=securenow-ai) | $1K–10K | ▲ | Subscription | [How does a Security subscription keep churn low enough to compound?](https://moneypeel.com/project/securenow-ai?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=securenow-ai) |
+| 4 | [STELLA PROXIES](https://moneypeel.com/project/stella-proxies?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=stella-proxies) | < $1K | ▲ | Usage-based | [What usage curve does a Security product need before metered pricing pays off?](https://moneypeel.com/project/stella-proxies?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=stella-proxies) |
+| 5 | [HypeProxies](https://moneypeel.com/project/hypeproxies?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=hypeproxies) | — | ▼ | Subscription | [How does a Security subscription keep churn low enough to compound?](https://moneypeel.com/project/hypeproxies?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=hypeproxies) |

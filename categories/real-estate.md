@@ -1,0 +1,11 @@
+# Real Estate
+
+5 products. Part of [How small software businesses make money](../README.md) · [中文](../README.zh.md).
+
+| # | Product | MRR band | Trend | Pricing | How does it grow? |
+| --: | --- | :-: | :-: | --- | --- |
+| 1 | [Bali Villa Hub](https://moneypeel.com/project/bali-villa-hub?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=bali-villa-hub) | $1K–10K | ▲ | Unlabelled | [What does this Real Estate product actually charge for?](https://moneypeel.com/project/bali-villa-hub?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=bali-villa-hub) |
+| 2 | [Subbasta](https://moneypeel.com/project/subbasta?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=subbasta) | $1K–10K | ▼ | Unlabelled | [What does this Real Estate product actually charge for?](https://moneypeel.com/project/subbasta?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=subbasta) |
+| 3 | [Nytfire Apps](https://moneypeel.com/project/nytfire-apps?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=nytfire-apps) | $1K–10K | ▲▲ | Subscription | [How does a Real Estate subscription keep churn low enough to compound?](https://moneypeel.com/project/nytfire-apps?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=nytfire-apps) |
+| 4 | [Refined Listings](https://moneypeel.com/project/refined-listings?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=refined-listings) | $1K–10K | ▼ | Usage-based | [What usage curve does a Real Estate product need before metered pricing pays off?](https://moneypeel.com/project/refined-listings?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=refined-listings) |
+| 5 | [Immopix](https://moneypeel.com/project/immopix?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=immopix) | < $1K | ▼ | Usage-based | [What usage curve does a Real Estate product need before metered pricing pays off?](https://moneypeel.com/project/immopix?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=immopix) |
