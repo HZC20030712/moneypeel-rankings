@@ -4,4 +4,4 @@
 
 | # | Product | MRR band | Trend | Pricing | How does it grow? |
 | --: | --- | :-: | :-: | --- | --- |
-| 1 | <img src="https://moneypeel.com/logos/one-mint.png" width="16" height="16" alt=""> [One Mint](https://moneypeel.com/project/one-mint?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=one-mint) | — | ▼ | Unlabelled | [Crypto & Web3: what does this product actually charge for?](https://moneypeel.com/project/one-mint?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=one-mint) |
+| 1 | <img src="https://moneypeel.com/logos/one-mint.png" width="16" height="16" alt=""> [One Mint](https://moneypeel.com/project/one-mint?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=one-mint) | — | ▼ | Unlabelled | [We offer a suite of tools for NFT creators. We offer design tools to help creators generate large NFT collections and we allow…](https://moneypeel.com/project/one-mint?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings&utm_content=one-mint) |
