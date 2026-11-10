@@ -1,6 +1,6 @@
 # How small software businesses make money
 
-**738 products** with their revenue band, 30-day trend, pricing model, category and builder — plus a full growth teardown on each, on [MoneyPeel](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings).
+**738 products** with their revenue band, 30-day trend, pricing model, category and the question each teardown answers — plus the full report on [MoneyPeel](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings).
 
 [![products: 738](https://img.shields.io/badge/products-738-1f2937)](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
 [![data as of: 2026-11-10](https://img.shields.io/badge/data%20as%20of-2026-11-10-0e7490)](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)

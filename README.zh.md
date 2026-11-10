@@ -1,6 +1,6 @@
 # 小型软件生意到底怎么赚钱
 
-**738 个产品**的收入区间、30 天趋势、收费模式、分类与创始人——每一个都有一份完整的增长拆解，在 [MoneyPeel](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings) 上。
+**738 个产品**的收入区间、30 天趋势、收费模式、分类，以及它的拆解在回答哪一个问题——完整报告在 [MoneyPeel](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings) 上。
 
 [![products: 738](https://img.shields.io/badge/products-738-1f2937)](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
 [![data as of: 2026-11-10](https://img.shields.io/badge/data%20as%20of-2026-11-10-0e7490)](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
