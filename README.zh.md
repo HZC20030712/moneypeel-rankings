@@ -8,7 +8,7 @@
 
 每一行只给**区间**，不给精确数字：它赚多少、在不在增长、怎么收钱、以及它的拆解回答哪一个问题。区间背后的数字、证据与打法在完整报告里——[可免费预览](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)。
 
-**想让 AI 直接查这份数据：**[MoneyPeel MCP](https://github.com/moneypeel/moneypeel-mcp)（远程 MCP，OAuth，无 API 密钥）。
+**想让 AI 直接查这份数据：**[MoneyPeel MCP](https://github.com/HZC20030712/moneypeel-mcp)（远程 MCP，OAuth，无 API 密钥）。
 
 ## 目录
 
@@ -228,7 +228,7 @@
 ## 作为数据集使用
 
 - data/startups.csv — 每个产品一行：slug、名称、区间、趋势、收费模式、分类、报告链接。
-- 同一批行，带上日期与口径，可以直接在对话里通过 MCP 查询：[moneypeel-mcp](https://github.com/moneypeel/moneypeel-mcp)。
+- 同一批行，带上日期与口径，可以直接在对话里通过 MCP 查询：[moneypeel-mcp](https://github.com/HZC20030712/moneypeel-mcp)。
 
 ## 许可
 

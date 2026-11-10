@@ -72,7 +72,7 @@ const missing = [...new Set(linked)].filter((slug) => !present.has(slug));
 check('every linked category file exists', missing.length === 0, missing.join(',') || 'ok');
 
 // 7. Cross-link to the MCP repository, and back to the site.
-check('links to the MCP repository', en.includes('github.com/moneypeel/moneypeel-mcp'));
+check('links to the MCP repository', en.includes('github.com/HZC20030712/moneypeel-mcp'));
 check('links to the site root', en.includes('https://moneypeel.com'));
 
 console.log('');

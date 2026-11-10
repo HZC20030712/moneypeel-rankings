@@ -9,7 +9,7 @@
 
 Every row shows what a product earns **as a band**, whether it is growing, how it charges, and the question its teardown answers. The numbers behind the bands and the playbook are in the full report — [free to preview](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings).
 
-**Ask the same data from your AI assistant:** [MoneyPeel MCP](https://github.com/moneypeel/moneypeel-mcp) — remote MCP, OAuth, no API key.
+**Ask the same data from your AI assistant:** [MoneyPeel MCP](https://github.com/HZC20030712/moneypeel-mcp) — remote MCP, OAuth, no API key.
 
 ## Contents
 
@@ -229,7 +229,7 @@ Highest band first; ties broken by the 30-day amount.
 ## Get this as a dataset
 
 - data/startups.csv — one row per product: slug, name, band, trend, pricing, category, report URL.
-- The same rows, with dates and basis attached, are queryable over MCP: [moneypeel-mcp](https://github.com/moneypeel/moneypeel-mcp).
+- The same rows, with dates and basis attached, are queryable over MCP: [moneypeel-mcp](https://github.com/HZC20030712/moneypeel-mcp).
 
 ## Licence
 
