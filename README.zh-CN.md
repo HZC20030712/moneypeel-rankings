@@ -3,7 +3,7 @@
 **738 个产品**：logo、收入区间、30 天趋势、收费模式，以及一句话说清它在做什么——完整报告在 [MoneyPeel](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings) 上。
 
 [![products: 738](https://img.shields.io/badge/products-738-1f2937)](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
-[![updated: weekly](https://img.shields.io/badge/updated-weekly-15803d)](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
+[![updated: daily](https://img.shields.io/badge/updated-daily-15803d)](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
 [![licence: CC BY 4.0](https://img.shields.io/badge/licence-CC_BY_4.0-lightgrey)](LICENSE)
 
 **数据截至 2026-11-10**
@@ -271,7 +271,7 @@ MoneyPeel 商业报告背后那份数据集的公开周更快照：一行一个�
 支付商与公开披露。所谓支付商验证，指这个数字来自账单系统，不指这家公司在盈利。收入不等于利润、现金流或审计报表。
 
 **多久更新一次？**
-每周，来自站点读取的同一条每日管道。`data as of` 徽章说的是数据覆盖到哪天，不是脚本跑了哪天。
+每天，来自站点读取的同一条每日管道。`data as of` 徽章说的是数据覆盖到哪天，不是脚本跑了哪天。
 
 **为什么有些行 MRR 是破折号？**
 那个产品没有报 MRR。它可能仍有收入——去看报告。

@@ -3,7 +3,7 @@
 **738 products** with their logo, revenue band, 30-day trend, pricing model and one line on what each one does — plus the full growth report on [MoneyPeel](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings).
 
 [![products: 738](https://img.shields.io/badge/products-738-1f2937)](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
-[![updated: weekly](https://img.shields.io/badge/updated-weekly-15803d)](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
+[![updated: daily](https://img.shields.io/badge/updated-daily-15803d)](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)
 [![licence: CC BY 4.0](https://img.shields.io/badge/licence-CC_BY_4.0-lightgrey)](LICENSE)
 
 **Data as of 2026-11-10**
@@ -258,13 +258,13 @@ Newest entries in the library first.
 - **MRR band, never a point.** Bands are stable enough to cite; the exact figure changes daily and lives in the report. A dash means no MRR is reported (the product may still have revenue).
 - **Trend** is the 30-day revenue change: three up-arrows ≥100%, two ≥30%, one up, flat, down, dot unknown.
 - **Revenue is not profit.** A figure can be provider-verified and still be a GMV total. Each full report carries `revenueBasis` (what the number measures) and `dataQuality` (whether the 30-day amount and the MRR agree).
-- **Every number has a date.** The report prints `revenueAsOf` (the date the figure belongs to), `dataThrough` (what the dataset reaches) and `dataFreshness` (how far behind the schedule that is). This repository is a weekly snapshot: **data as of 2026-11-10**.
+- **Every number has a date.** The report prints `revenueAsOf` (the date the figure belongs to), `dataThrough` (what the dataset reaches) and `dataFreshness` (how far behind the schedule that is). This repository is a daily snapshot: **data as of 2026-11-10**.
 - **Never derive a recurring/one-off split** from MRR divided by the 30-day amount. It is a coverage indicator, not an accounting split.
 
 ## FAQ
 
 **What is this repository?**
-The open, weekly snapshot of the dataset behind MoneyPeel's business reports: one
+The open, daily snapshot of the dataset behind MoneyPeel's business reports: one
 row per product, banded revenue, growth direction, pricing model, category and a
 one-line summary of the product.
 
