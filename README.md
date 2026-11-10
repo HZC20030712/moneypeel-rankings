@@ -137,7 +137,7 @@ Highest band first; ties broken by the 30-day amount.
 
 ## Fastest growing
 
-30-day revenue growth of 30% or more, highest first.
+30-day amount growth of 30% or more, highest first.
 
 | # | Product | MRR band | Trend | Pricing | Category | What it does |
 | --: | --- | :-: | :-: | --- | --- | --- |
@@ -256,8 +256,8 @@ Newest entries in the library first.
 ## How to read these tables
 
 - **MRR band, never a point.** Bands are stable enough to cite; the exact figure changes daily and lives in the report. A dash means no MRR is reported (the product may still have revenue).
-- **Trend** is the 30-day revenue change: three up-arrows ≥100%, two ≥30%, one up, flat, down, dot unknown.
-- **Revenue is not profit.** A figure can be provider-verified and still be a GMV total. Each full report carries `revenueBasis` (what the number measures) and `dataQuality` (whether the 30-day amount and the MRR agree).
+- **Trend** is the 30-day amount change: three up-arrows ≥100%, two ≥30%, one up, flat, down, dot unknown.
+- **Revenue is not profit.** A figure can be provider-verified and still be a GMV total. Each full report carries `revenueBasis` (what the number measures), `basisDetermination` (whether a person read it or a pricing-model rule inferred it) and `dataQuality` (whether the 30-day amount and the MRR agree).
 - **Every number has a date.** The report prints `revenueAsOf` (the date the figure belongs to), `dataThrough` (what the dataset reaches) and `dataFreshness` (how far behind the schedule that is). This repository is a daily snapshot: **data as of 2026-11-10**.
 - **Never derive a recurring/one-off split** from MRR divided by the 30-day amount. It is a coverage indicator, not an accounting split.
 
