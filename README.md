@@ -279,7 +279,7 @@ from a billing integration, not that the company is profitable. Revenue is not
 profit, cash flow or an audited statement.
 
 **How often is it updated?**
-Weekly, from the same daily pipeline the site reads. The `data as of` badge is the
+Daily, from the same daily pipeline the site reads. The `data as of` badge is the
 date the dataset covers, not the day the script ran.
 
 **Why do some rows show a dash for MRR?**
